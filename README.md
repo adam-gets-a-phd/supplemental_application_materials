@@ -10,3 +10,9 @@ A copy of my senior honors thesis titled "Deepening the Automated Search for Gö
 3. [depaul_csc587_cogsci_ideas.pdf](depaul_csc587_cogsci_ideas.pdf)
 For Professor Clark Elliott's graduate cognitive science class at DePaul University, we were required to maintain an "Ideas File", a free-form document that no one would read but Professor Elliott in which we could write about whatever came to mind and furthered our research in the class. I filled mine with nearly 15,000 words of random musings on artificial intelligence, machine learning, self-organization, computability theory, all kinds of fun stuff. Obviously, don't read the whole thing, but take a peek to see where my head wanders when I'm told to write freely about cognitive science.
 
+4. [echo_state_network.py](echo_state_network.py)
+An Echo State Network implementation in Python I was working on to recognize causal structure in English sentences (initiated to assist Dr. Peter Hastings at DePaul University in his research). This project was set aside once I started working full-time in addition to being a full-time student, so no definitive results were obtained.
+
+5. [echo_state_network_notes.pdf](echo_state_network_notes.pdf)
+A partial research log documenting some of my ideas regarding my Echo State Network implementation, as well as a list of papers I read in preparation for engaging in this research.
+
