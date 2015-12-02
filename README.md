@@ -4,3 +4,9 @@ Here you will find some supplemental materials to my PhD application that were p
 1. [patents_granted_by_me.pdf](patents_granted_by_me.pdf)
 A list of 15 patents granted by me while I was a Patent Examiner for the USPTO. The titles and abstracts illustrate the breadth of the art I examined in and give you an idea of the sort of technologies I had to gain conceptual mastery over in order to determine the novelty of the claimed inventions.
 
+2. [cmu_senior_honors_thesis.pdf](cmu_senior_honors_thesis.pdf)
+A copy of my senior honors thesis titled "Deepening the Automated Search for Gödel's Proofs".
+
+3. [depaul_csc587_cogsci_ideas.pdf](depaul_csc587_cogsci_ideas.pdf)
+For Professor Clark Elliott's graduate cognitive science class at DePaul University, we were required to maintain an "Ideas File", a free-form document that no one would read but Professor Elliott in which we could write about whatever came to mind and furthered our research in the class. I filled mine with nearly 15,000 words of random musings on artificial intelligence, machine learning, self-organization, computability theory, all kinds of fun stuff. Obviously, don't read the whole thing, but take a peek to see where my head wanders when I'm told to write freely about cognitive science.
+
