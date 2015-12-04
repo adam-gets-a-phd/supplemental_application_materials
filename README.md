@@ -6,14 +6,14 @@ Here you will find some supplemental materials to my PhD application that were p
 A copy of my senior honors thesis titled "Deepening the Automated Search for Gödel's Proofs".
 
 * [goedel_poster_MoM2011.pdf](goedel_poster_MoM2011.pdf)
-I presented this poster at the 2011 Meeting of the Minds Undergraduate Research Symposium at Carnegie Mellon University related to my research regarding computer verification of Gödel's incompleteness theorems.
+I presented this poster at the 2011 Meeting of the Minds Undergraduate Research Symposium at Carnegie Mellon University to share my research regarding computer verification of Gödel's incompleteness theorems.
 
 * [proofs_poster_MoM2010.pdf](proofs_poster_MoM2010.pdf)
-I presented this poster at the 2010 Meeting of the Minds Undergraduate Research Symposium at Carnegie Mellon University related to my research regarding the intelligibility of formal proofs.
+I presented this poster at the 2010 Meeting of the Minds Undergraduate Research Symposium at Carnegie Mellon University to disseminate my findings from my research regarding the intelligibility of formal proofs.
 
 ## United States Patent and Trademark Office
 * [patents_granted_by_me.pdf](patents_granted_by_me.pdf)
-A list of 15 patents granted by me while I was a Patent Examiner for the USPTO. The titles and abstracts illustrate the breadth of the art I examined in and give you an idea of the sort of technologies I had to gain conceptual mastery over in order to determine the novelty of the claimed inventions.
+A list of 15 patents granted by me while I was a Patent Examiner in computer science for the USPTO. The titles and abstracts illustrate the breadth of the art I examined in and give you an idea of the sort of technologies I had to gain conceptual mastery over in order to determine the novelty of  claimed inventions.
 
 ## DePaul University 
 * [depaul_csc587_cogsci_ideas.pdf](depaul_csc587_cogsci_ideas.pdf)
